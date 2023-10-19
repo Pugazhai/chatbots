@@ -1,0 +1,48 @@
+{
+  "questions": [
+    {
+      "question": "Hello",
+      "answer": "Hey there!"
+    },
+    {
+      "question": "How are you?",
+      "answer": "good, Thanks for asking"
+    },
+    {
+      "question": "hi",
+      "answer": "HI, I am Here, How can I help you"
+    },
+    {
+      "question": "good",
+      "answer": ""
+    },
+    {
+      "question": "can you speak ",
+      "answer": "No, I can't"
+    },
+    {
+      "question": "what is your name",
+      "answer": "my name is chatbot"
+    },
+    {
+      "question": "Good morning",
+      "answer": "Good moring, Sir How can I assist you"
+    },
+    {
+      "question": "",
+      "answer": ""
+    },
+    {
+      "question": "saptiya",
+      "answer": "yes i did"
+    },
+    {
+      "question": "my name is ",
+      "answer": "pugazh"
+    },
+    {
+      "question": "Hi",
+      "answer": "hi there"
+    }
+  ]
+}
