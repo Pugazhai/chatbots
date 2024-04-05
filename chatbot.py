@@ -13,7 +13,7 @@ def save_knowledge_base(file_path: str, data: dict):
         json.dump(data, file, indent=2)
 
 
-def find_best_match(user_questions: str, questions: list[str]) -> str or None:
+def find_best_match(user_questions: str, questions: list() -> str or None:
     matches: list = get_close_matches(user_questions, questions, n=1, cutoff=0.6)
     return matches[0] if matches else None
 
