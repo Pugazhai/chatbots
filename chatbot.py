@@ -23,7 +23,7 @@ def get_answer_for_question(question: str, knowledge_base: dict) -> str or None:
         if q["question"] == question:
             return q["answer"]
 def chat_bot():
-    knowledge_base: dict = load_knowledge_base('knowledge_base.json')
+    knowledge_base: dict = load_knowledge_base('trained_knowledge.json')
     while True:
         user_input: str = input('You : ')
         if user_input.lower() == 'quit':
