@@ -1,0 +1,373 @@
+{
+  "questions": [
+    {
+      "question": "Hello",
+      "answer": "Hey there!"
+    },
+    {
+      "question": "How are you?",
+      "answer": "Good, thanks for asking!"
+    },
+    {
+      "question": "What's your name?",
+      "answer": "I'm a chatbot, you can call me ChatGPT."
+    },
+    {
+      "question": "Where are you from?",
+      "answer": "I exist in the digital realm, created by OpenAI."
+    },
+    {
+      "question": "How old are you?",
+      "answer": "I don't have an age, I'm just a program."
+    },
+    {
+      "question": "What can you do?",
+      "answer": "I can answer questions, engage in conversation, provide information, and more. Feel free to ask me anything!"
+    },
+    {
+      "question": "Are you human?",
+      "answer": "No, I'm an artificial intelligence."
+    },
+    {
+      "question": "Do you sleep?",
+      "answer": "No, I don't need to sleep."
+    },
+    {
+      "question": "What's the weather like today?",
+      "answer": "I'm sorry, but I can't provide real-time weather updates. You might want to check a weather website or app."
+    },
+    {
+      "question": "What's your favorite color?",
+      "answer": "I don't have preferences like humans do, but I appreciate all colors equally!"
+    },
+    {
+      "question": "Who created you?",
+      "answer": "I was created by a team of engineers and researchers at OpenAI."
+    },
+    {
+      "question": "Can you learn?",
+      "answer": "I don't learn in the same way humans do, but I can improve over time based on feedback and updates from my creators."
+    },
+    {
+      "question": "Do you have emotions?",
+      "answer": "No, I don't have emotions like humans do."
+    },
+    {
+      "question": "What's the meaning of life?",
+      "answer": "That's a profound question! The meaning of life can vary from person to person. Some find meaning in relationships, others in work or personal growth."
+    },
+    {
+      "question": "How do I become successful?",
+      "answer": "Success can mean different things to different people. It often involves setting goals, working hard, being persistent, and learning from failures."
+    },
+    {
+      "question": "What's the best way to relax?",
+      "answer": "Relaxation methods vary from person to person, but common techniques include deep breathing, meditation, exercise, and spending time with loved ones."
+    },
+    {
+      "question": "What's the capital of France?",
+      "answer": "The capital of France is Paris."
+    },
+    {
+      "question": "Who is the President of the United States?",
+      "answer": "I'm sorry, I can't provide real-time information. You might want to check a news website for the current President."
+    },
+    {
+      "question": "What's the square root of 64?",
+      "answer": "The square root of 64 is 8."
+    },
+    {
+      "question": "How do I change a tire?",
+      "answer": "Changing a tire involves several steps, including loosening the lug nuts, lifting the car with a jack, removing the flat tire, putting on the spare tire, and tightening the lug nuts. It's a good idea to consult your car's manual for specific instructions."
+    },
+    {
+      "question": "What's the difference between a crocodile and an alligator?",
+      "answer": "Crocodiles and alligators are both reptiles, but they belong to different families. One key difference is their snout shape: crocodiles have a V-shaped snout, while alligators have a U-shaped snout."
+    },
+    {
+      "question": "How do I make pancakes?",
+      "answer": "To make pancakes, you'll need flour, eggs, milk, baking powder, salt, and butter. Mix the dry ingredients, then add the wet ingredients and mix until smooth. Cook the batter on a greased skillet until bubbles form, then flip and cook until golden brown."
+    },
+    {
+      "question": "What's the tallest mountain in the world?",
+      "answer": "Mount Everest, located in the Himalayas, is the tallest mountain in the world."
+    },
+    {
+      "question": "How do I tie a tie?",
+      "answer": "There are several ways to tie a tie, but a common method is the Windsor knot. Start by draping the tie around your neck with the wide end on the right and the narrow end on the left. Cross the wide end over the narrow end, then bring it up through the loop between your neck and the tie. Bring it down through the loop you've created in the front, then pull it tight and adjust as needed."
+    },
+    {
+      "question": "What's the chemical symbol for water?",
+      "answer": "The chemical symbol for water is H2O."
+    },
+    {
+      "question": "How do I say 'hello' in Spanish?",
+      "answer": "Hello in Spanish is 'Hola.'"
+    },
+    {
+      "question": "What's the population of China?",
+      "answer": "As of my last update, China's population is over 1.4 billion."
+    },
+    {
+      "question": "What's the largest desert in the world?",
+      "answer": "The largest desert in the world is the Antarctic Desert."
+    },
+    {
+      "question": "How do I make a paper airplane?",
+      "answer": "To make a paper airplane, start with a piece of paper and fold it in half lengthwise. Then, fold down the top corners to the center crease to form a triangle. Fold the top point down to meet the bottom edge, then fold the resulting triangle in half along the center crease. Finally, fold down the wings on each side and you're done!"
+    },
+    {
+      "question": "What's the capital of Japan?",
+      "answer": "The capital of Japan is Tokyo."
+    },
+    {
+      "question": "How do I boil an egg?",
+      "answer": "To boil an egg, place it in a pot of water and bring the water to a boil. Once boiling, reduce the heat to a simmer and cook the egg for about 9-12 minutes, depending on how well-done you want it. Then, remove the egg from the pot and place it in a bowl of cold water to stop the cooking process."
+    },
+    {
+      "question": "What's the speed of light?",
+      "answer": "The speed of light in a vacuum is approximately 299,792 kilometers per second."
+    },
+    {
+      "question": "How do I say 'thank you' in French?",
+      "answer": "Thank you in French is 'Merci.'"
+    },
+    {
+      "question": "What's the capital of Australia?",
+      "answer": "The capital of Australia is Canberra."
+    },
+    {
+      "question": "What is the capital of Canada?",
+      "answer": "The capital of Canada is Ottawa."
+    },
+    {
+      "question": "Who wrote the Indian National Anthem?",
+      "answer": "The Indian National Anthem, 'Jana Gana Mana,' was written by Rabindranath Tagore."
+    },
+    {
+      "question": "What is the chemical formula for table salt?",
+      "answer": "The chemical formula for table salt is NaCl (sodium chloride)."
+    },
+    {
+      "question": "Who discovered penicillin?",
+      "answer": "Penicillin was discovered by Alexander Fleming in 1928."
+    },
+    {
+      "question": "What is the pH of pure water?",
+      "answer": "The pH of pure water is 7."
+    },
+    {
+      "question": "Who is known as the 'Father of the Indian Constitution'?",
+      "answer": "Dr. B.R. Ambedkar is known as the 'Father of the Indian Constitution.'"
+    },
+    {
+      "question": "What is the Law of Inertia?",
+      "answer": "The Law of Inertia, formulated by Sir Isaac Newton, states that an object at rest will remain at rest, and an object in motion will remain in motion unless acted upon by an external force."
+    },
+    {
+      "question": "What is the SI unit of force?",
+      "answer": "The SI unit of force is the Newton (N)."
+    },
+    {
+      "question": "Who discovered the theory of relativity?",
+      "answer": "Albert Einstein is credited with the discovery of the theory of relativity."
+    },
+    {
+      "question": "What is the fundamental right guaranteed by Article 19 of the Indian Constitution?",
+      "answer": "Article 19 of the Indian Constitution guarantees the Right to Freedom, which includes freedoms of speech and expression, assembly, association, movement, residence, and profession."
+    },
+    {
+      "question": "What is Ohm's Law?",
+      "answer": "Ohm's Law states that the current flowing through a conductor between two points is directly proportional to the voltage across the two points, provided the temperature remains constant."
+    },
+    {
+      "question": "Who invented the telephone?",
+      "answer": "The telephone was invented by Alexander Graham Bell."
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "answer": "The chemical symbol for gold is Au."
+    },
+    {
+      "question": "What is the process of photosynthesis?",
+      "answer": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll, carbon dioxide, and water."
+    },
+    {
+      "question": "What is the Law of Gravitation?",
+      "answer": "The Law of Gravitation, formulated by Sir Isaac Newton, states that every mass attracts every other mass with a force proportional to the product of their masses and inversely proportional to the square of the distance between their centers."
+    },
+    {
+      "question": "Who was the first woman Prime Minister of India?",
+      "answer": "Indira Gandhi was the first woman Prime Minister of India."
+    },
+    {
+      "question": "What is the chemical formula for water?",
+      "answer": "The chemical formula for water is H2O."
+    },
+    {
+      "question": "Who discovered electricity?",
+      "answer": "Electricity was not discovered by one individual, but its properties have been studied and understood over time by various scientists such as Benjamin Franklin, Alessandro Volta, Michael Faraday, and Thomas Edison."
+    },
+    {
+      "question": "What is the Law of Conservation of Energy?",
+      "answer": "The Law of Conservation of Energy states that energy cannot be created or destroyed, but it can only be transformed from one form to another."
+    },
+    {
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "answer": "'To Kill a Mockingbird' was written by Harper Lee."
+    },
+    {
+      "question": "What is the chemical formula for carbon dioxide?",
+      "answer": "The chemical formula for carbon dioxide is CO2."
+    },
+    {
+      "question": "What is the largest organ in the human body?",
+      "answer": "The skin is the largest organ in the human body."
+    },
+    {
+      "question": "Who is known as the 'Father of Modern Physics'?",
+      "answer": "Albert Einstein is often referred to as the 'Father of Modern Physics' for his groundbreaking contributions to the field."
+    },
+    {
+      "question": "What is the SI unit of electric current?",
+      "answer": "The SI unit of electric current is the Ampere (A)."
+    },
+    {
+      "question": "Who was the first President of the United States?",
+      "answer": "George Washington was the first President of the United States."
+    },
+    {
+      "question": "What is the chemical formula for methane?",
+      "answer": "The chemical formula for methane is CH4."
+    },
+    {
+      "question": "What is the speed of sound in air?",
+      "answer": "The speed of sound in air at room temperature is approximately 343 meters per second (or about 1235 kilometers per hour)."
+    },
+    {
+      "question": "What is the value of \u00cf\u20ac (pi)?",
+      "answer": "The value of \u00cf\u20ac (pi) is approximately 3.14159, though it is an irrational number and its decimal representation goes on infinitely without repeating."
+    },
+    {
+      "question": "Who composed the famous musical work 'Symphony No. 9'?",
+      "answer": "Ludwig van Beethoven composed the famous musical work 'Symphony No. 9'."
+    },
+    {
+      "question": "What is the chemical formula for sulfuric acid?",
+      "answer": "The chemical formula for sulfuric acid is H2SO4."
+    },
+    {
+      "question": "Who is known as the 'Father of Medicine'?",
+      "answer": "Hippocrates is often referred to as the 'Father of Medicine'."
+    },
+    {
+      "question": "What is the SI unit of temperature?",
+      "answer": "The SI unit of temperature is the Kelvin (K)."
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "answer": "The Mona Lisa was painted by Leonardo da Vinci."
+    },
+    {
+      "question": "What is the chemical formula for hydrogen peroxide?",
+      "answer": "The chemical formula for hydrogen peroxide is H2O2."
+    },
+    {
+      "question": "What is the Law of Reflection?",
+      "answer": "The Law of Reflection states that the angle of incidence is equal to the angle of reflection, measured from the normal (a line perpendicular to the surface) at the point of incidence."
+    },
+    {
+      "question": "Who discovered the laws of planetary motion?",
+      "answer": "Johannes Kepler discovered"
+    },
+    {
+      "question": "What is Newton's First Law of Motion?",
+      "answer": "Newton's First Law of Motion states that an object will remain at rest or in uniform motion in a straight line unless acted upon by an external force."
+    },
+    {
+      "question": "What is the formula for velocity?",
+      "answer": "Velocity (v) is calculated as the change in displacement (\u00ce\u201dx) divided by the change in time (\u00ce\u201dt), expressed as v = \u00ce\u201dx / \u00ce\u201dt."
+    },
+    {
+      "question": "What is Avogadro's Law?",
+      "answer": "Avogadro's Law states that equal volumes of gases at the same temperature and pressure contain equal numbers of molecules."
+    },
+    {
+      "question": "What is the chemical formula for water?",
+      "answer": "The chemical formula for water is H2O."
+    },
+    {
+      "question": "What is Newton's Second Law of Motion?",
+      "answer": "Newton's Second Law of Motion states that the force acting on an object is equal to the mass of the object multiplied by its acceleration, expressed as F = ma."
+    },
+    {
+      "question": "What is the formula for kinetic energy?",
+      "answer": "Kinetic energy (KE) is calculated as one-half of the mass (m) times the square of the velocity (v), expressed as KE = 0.5 * m * v^2."
+    },
+    {
+      "question": "What is Boyle's Law?",
+      "answer": "Boyle's Law states that at constant temperature, the volume of a given mass of gas is inversely proportional to its pressure."
+    },
+    {
+      "question": "What is the chemical formula for carbon dioxide?",
+      "answer": "The chemical formula for carbon dioxide is CO2."
+    },
+    {
+      "question": "What is Newton's Third Law of Motion?",
+      "answer": "Newton's Third Law of Motion states that for every action, there is an equal and opposite reaction."
+    },
+    {
+      "question": "What is the formula for work?",
+      "answer": "Work (W) is calculated as the force (F) applied to an object multiplied by the displacement (d) of the object in the direction of the force, expressed as W = F * d."
+    },
+    {
+      "question": "What is the Law of Conservation of Mass?",
+      "answer": "The Law of Conservation of Mass states that in a closed system, mass is neither created nor destroyed in a chemical reaction."
+    },
+    {
+      "question": "What is the chemical formula for methane?",
+      "answer": "The chemical formula for methane is CH4."
+    },
+    {
+      "question": "What is the formula for acceleration?",
+      "answer": "Acceleration (a) is calculated as the change in velocity (\u00ce\u201dv) divided by the change in time (\u00ce\u201dt), expressed as a = \u00ce\u201dv / \u00ce\u201dt."
+    },
+    {
+      "question": "What is Charles's Law?",
+      "answer": "Charles's Law states that at constant pressure, the volume of a given mass of gas is directly proportional to its absolute temperature."
+    },
+    {
+      "question": "What is the chemical formula for sulfuric acid?",
+      "answer": "The chemical formula for sulfuric acid is H2SO4."
+    },
+    {
+      "question": "What is the formula for force?",
+      "answer": "Force (F) is calculated as the mass (m) of an object multiplied by its acceleration (a), expressed as F = m * a."
+    },
+    {
+      "question": "What is the Law of Conservation of Energy?",
+      "answer": "The Law of Conservation of Energy states that energy cannot be created or destroyed, but it can only be transformed from one form to another."
+    },
+    {
+      "question": "What is Gay-Lussac's Law?",
+      "answer": "Gay-Lussac's Law states that the pressure of a gas is directly proportional to its absolute temperature at constant volume."
+    },
+    {
+      "question": "What is the chemical formula for hydrogen peroxide?",
+      "answer": "The chemical formula for hydrogen peroxide is H2O2."
+    },
+    {
+      "question": "What is the formula for power?",
+      "answer": "Power (P) is calculated as the work (W) done divided by the time (t) taken to do the work, expressed as P = W / t."
+    },
+    {
+      "question": "What is the Law of Reflection?",
+      "answer": "The Law of Reflection states that the angle of incidence is equal to the angle of reflection, measured from the normal (a line perpendicular to the surface) at the point of incidence."
+    },
+    {
+      "question": "newton's first law",
+      "answer": "Newton's First Law of Motion states that an object will remain at rest or in uniform motion in a straight line unless acted upon by an external force."
+    },
+
+  ]
+}
